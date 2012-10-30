@@ -1,2 +1,2 @@
-puppet-builddep-pil
+puppet-builddep
 ===================
